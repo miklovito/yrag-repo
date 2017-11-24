@@ -1,2 +1,2 @@
 # yrag-repo
-Just another repository
+My new commit sample
